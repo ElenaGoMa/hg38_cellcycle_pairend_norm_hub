@@ -1,5 +1,0 @@
-hub hg38_cell_cycle_pairend_norm_hub 
-shortLabel hg38_cell_cycle_pairend_norm_hub
-longLabel hg38_cell_cycle_pairend_norm_hub
-genomesFile genomes.txt
-email e.gomez-marin@lms.mrc.ac.uk
