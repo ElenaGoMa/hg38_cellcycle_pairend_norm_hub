@@ -1,0 +1,331 @@
+
+
+track minus
+shortLabel minus
+longLabel minus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track B_nG0_norm.plus
+    parent minus on
+    bigDataUrl CAGE/B_nG0_norm.plus.bigWig
+    shortLabel B_nG0_norm.plus
+    longLabel B_nG0_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_nG1_norm.plus
+    parent minus on
+    bigDataUrl CAGE/B_nG1_norm.plus.bigWig
+    shortLabel B_nG1_norm.plus
+    longLabel B_nG1_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_nG2_norm.plus
+    parent minus on
+    bigDataUrl CAGE/B_nG2_norm.plus.bigWig
+    shortLabel B_nG2_norm.plus
+    longLabel B_nG2_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_nS_norm.plus
+    parent minus on
+    bigDataUrl CAGE/B_nS_norm.plus.bigWig
+    shortLabel B_nS_norm.plus
+    longLabel B_nS_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_totalG0_norm.plus
+    parent minus on
+    bigDataUrl CAGE/B_totalG0_norm.plus.bigWig
+    shortLabel B_totalG0_norm.plus
+    longLabel B_totalG0_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_totalG1_norm.plus
+    parent minus on
+    bigDataUrl CAGE/B_totalG1_norm.plus.bigWig
+    shortLabel B_totalG1_norm.plus
+    longLabel B_totalG1_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_totalG2_norm.plus
+    parent minus on
+    bigDataUrl CAGE/B_totalG2_norm.plus.bigWig
+    shortLabel B_totalG2_norm.plus
+    longLabel B_totalG2_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_totalM_rep2_norm.plus
+    parent minus on
+    bigDataUrl CAGE/B_totalM_rep2_norm.plus.bigWig
+    shortLabel B_totalM_rep2_norm.plus
+    longLabel B_totalM_rep2_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_totalM_rep3_norm.plus
+    parent minus on
+    bigDataUrl CAGE/B_totalM_rep3_norm.plus.bigWig
+    shortLabel B_totalM_rep3_norm.plus
+    longLabel B_totalM_rep3_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_totalS_norm.plus
+    parent minus on
+    bigDataUrl CAGE/B_totalS_norm.plus.bigWig
+    shortLabel B_totalS_norm.plus
+    longLabel B_totalS_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track F_nG1_norm.plus
+    parent minus on
+    bigDataUrl CAGE/F_nG1_norm.plus.bigWig
+    shortLabel F_nG1_norm.plus
+    longLabel F_nG1_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track F_nG2_norm.plus
+    parent minus on
+    bigDataUrl CAGE/F_nG2_norm.plus.bigWig
+    shortLabel F_nG2_norm.plus
+    longLabel F_nG2_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track F_nS_norm.plus
+    parent minus on
+    bigDataUrl CAGE/F_nS_norm.plus.bigWig
+    shortLabel F_nS_norm.plus
+    longLabel F_nS_norm.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+
+track plus
+shortLabel plus
+longLabel plus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track B_nG0_norm.minus
+    parent plus on
+    bigDataUrl CAGE/B_nG0_norm.minus.bigWig
+    shortLabel B_nG0_norm.minus
+    longLabel B_nG0_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_nG1_norm.minus
+    parent plus on
+    bigDataUrl CAGE/B_nG1_norm.minus.bigWig
+    shortLabel B_nG1_norm.minus
+    longLabel B_nG1_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_nG2_norm.minus
+    parent plus on
+    bigDataUrl CAGE/B_nG2_norm.minus.bigWig
+    shortLabel B_nG2_norm.minus
+    longLabel B_nG2_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_nS_norm.minus
+    parent plus on
+    bigDataUrl CAGE/B_nS_norm.minus.bigWig
+    shortLabel B_nS_norm.minus
+    longLabel B_nS_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_totalG0_norm.minus
+    parent plus on
+    bigDataUrl CAGE/B_totalG0_norm.minus.bigWig
+    shortLabel B_totalG0_norm.minus
+    longLabel B_totalG0_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_totalG1_norm.minus
+    parent plus on
+    bigDataUrl CAGE/B_totalG1_norm.minus.bigWig
+    shortLabel B_totalG1_norm.minus
+    longLabel B_totalG1_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_totalG2_norm.minus
+    parent plus on
+    bigDataUrl CAGE/B_totalG2_norm.minus.bigWig
+    shortLabel B_totalG2_norm.minus
+    longLabel B_totalG2_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_totalM_rep2_norm.minus
+    parent plus on
+    bigDataUrl CAGE/B_totalM_rep2_norm.minus.bigWig
+    shortLabel B_totalM_rep2_norm.minus
+    longLabel B_totalM_rep2_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_totalM_rep3_norm.minus
+    parent plus on
+    bigDataUrl CAGE/B_totalM_rep3_norm.minus.bigWig
+    shortLabel B_totalM_rep3_norm.minus
+    longLabel B_totalM_rep3_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track B_totalS_norm.minus
+    parent plus on
+    bigDataUrl CAGE/B_totalS_norm.minus.bigWig
+    shortLabel B_totalS_norm.minus
+    longLabel B_totalS_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track F_nG1_norm.minus
+    parent plus on
+    bigDataUrl CAGE/F_nG1_norm.minus.bigWig
+    shortLabel F_nG1_norm.minus
+    longLabel F_nG1_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track F_nG2_norm.minus
+    parent plus on
+    bigDataUrl CAGE/F_nG2_norm.minus.bigWig
+    shortLabel F_nG2_norm.minus
+    longLabel F_nG2_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track F_nS_norm.minus
+    parent plus on
+    bigDataUrl CAGE/F_nS_norm.minus.bigWig
+    shortLabel F_nS_norm.minus
+    longLabel F_nS_norm.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
